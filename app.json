@@ -1,0 +1,6 @@
+{
+  "name": "Node.js location to timezone API",
+  "description": "A simple example of getting timezone from latitude/longitude",
+  "repository": "https://github.com/CraigMerchant/location-to-timezone-api",
+  "keywords": ["node", "express", "timezone", "location"]
+}
